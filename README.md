@@ -1,0 +1,1 @@
+# nextjs_authenticator_single_page
